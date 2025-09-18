@@ -1,8 +1,8 @@
-# 📊 Muhammad Umer Haider - Data Analyst Portfolio
+# 📊 Muhammad Umer Haider - Full Stack Web Developer Portfolio
 
-Welcome to my professional portfolio website! I'm Muhammad Umer Haider, a Data Analyst passionate about turning raw data into valuable business insights.
+Welcome to my professional portfolio website! I'm Muhammad Umer Haider, a Full Stack Web Developer passionate about creating web applications that are both scalable and user-friendly.
 
-This website showcases my projects, skills, and experience in data analytics — including work with Python, SQL, Power BI, and Excel.
+This website showcases my projects, skills, and experience in web development — including work with React, Node, Express and MongoDB.
 
 ## 🌐 Live Site
 
